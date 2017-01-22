@@ -17,3 +17,7 @@ prod.danawa.com##.prod_ad_item
 prod.danawa.com##.product_ad_banner
 prod.danawa.com##.ad_wide_slide
 prod.danawa.com##.main_item_banner
+! danawa virtualestimate
+shop.danawa.com##.top_cont_area
+shop.danawa.com##.adreader_box>*
+shop.danawa.com###popup_event_wrap
