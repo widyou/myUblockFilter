@@ -12,3 +12,7 @@ mohmo.net##.at-tip.view_file_download.break-word.list-group-item:nth-of-type(1)
 
 ! danawa
 prod.danawa.com###adReaderProductItem4631797
+prod.danawa.com###mainAdReader
+prod.danawa.com##.product_ad_banner
+prod.danawa.com##.ad_wide_slide
+prod.danawa.com##.main_item_banner
