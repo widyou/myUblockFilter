@@ -1,0 +1,12 @@
+! facebook
+www.facebook.com###rightCol
+
+! mohmo.net
+mohmo.net###hd_pop
+mohmo.net###sky
+mohmo.net##.at-side.at-col.col-md-3
+mohmo.net###tab-kormovie
+mohmo.net##.at-tip.view_file_download.break-word.list-group-item:nth-of-type(1)
+
+! danawa
+prod.danawa.com###adReaderProductItem4631797
