@@ -21,3 +21,9 @@ prod.danawa.com##.main_item_banner
 shop.danawa.com##.top_cont_area
 shop.danawa.com##.adreader_box>*
 shop.danawa.com###popup_event_wrap
+
+! itworld
+www.itworld.co.kr###techlibrary_left_slide_banner
+
+! amazon
+www.amazon.com##.prime-ad-banner-content.a-spacing-mini.a-row
