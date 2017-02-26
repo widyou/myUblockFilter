@@ -9,6 +9,9 @@ mohmo.net###sky
 mohmo.net##.at-side.at-col.col-md-3
 mohmo.net###tab-kormovie
 mohmo.net##.at-tip.view_file_download.break-word.list-group-item:nth-of-type(1)
+mohmo.net##.view-wrap > .row:nth-of-type(1)
+mohmo.net##.row:nth-of-type(10)
+mohmo.net###loadingCap
 
 ! danawa product list
 prod.danawa.com###mainAdReader
