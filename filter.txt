@@ -1,7 +1,7 @@
 ! Title: My block list
 
 ! facebook
-www.facebook.com###rightCol
+www.facebook.com###pagelet_ego_pane
 
 ! mohmo.net
 mohmo.net###hd_pop
