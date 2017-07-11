@@ -30,3 +30,6 @@ www.itworld.co.kr###techlibrary_left_slide_banner
 
 ! amazon
 www.amazon.com##.prime-ad-banner-content.a-spacing-mini.a-row
+
+! inven.co.kr
+m.inven.co.kr###bbsNavLineBubbleHelp
