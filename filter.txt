@@ -33,3 +33,10 @@ www.amazon.com##.prime-ad-banner-content.a-spacing-mini.a-row
 
 ! inven.co.kr
 m.inven.co.kr###bbsNavLineBubbleHelp
+
+! clien
+www.clien.net##.list_top_ad
+www.clien.net###hongboInfoList
+www.clien.net##.list_bottom_ad
+www.clien.net##.main_top_ad
+www.clien.net##.main_center_ad
